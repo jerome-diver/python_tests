@@ -6,4 +6,5 @@
 - complementary_dna (depuis une chaine de caractère, inverse A et T ainsi que G et C, et inversement)
 - phone_number_format ([0,1,2,3,4,5,6,7,8,9] ==> (012) 345-6789)
 - morse_code (translate sentence morse code by separate each char and words)
+- persistence bugger (trouver le nombre de persistence correpondantes d'un nombre)
 
