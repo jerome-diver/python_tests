@@ -11,4 +11,4 @@
 - second_tp_hhmmss (return HH:MM:SS from seconds)
 - narcissistic (return if is a narcissistic number)
 - find_pangram (return if sentence pangram)
-
+- replace_with_alphabet_position
