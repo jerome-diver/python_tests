@@ -13,3 +13,5 @@
 - find_pangram (return if sentence pangram)
 - replace_with_alphabet_position
 - sort_odd_only (from a int list, sort odd numbers only, don't move even one's)
+- count_valid_smileys
+- permutations (show all possibles unique permutations)
