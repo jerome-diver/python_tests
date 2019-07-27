@@ -9,4 +9,5 @@
 - persistence bugger (trouver le nombre de persistence correpondantes d'un nombre)
 - sum_multiples_3or5 (return sum of all multiples by 3 or 5 of number)
 - second_tp_hhmmss (return HH:MM:SS from seconds)
+- narcissistic (return if is a narcissistic number)
 
