@@ -8,4 +8,10 @@ def is_pangram(sentence):
     """Return if sentence is a pangram"""
 
     return all((x in sentence.lower())
-               for x in string.ascii_lowercase[:26])
+               for x in string.ascii_lowercase)
+
+
+def is_pangram_2(sentence):
+    """Return if sentencei is a pangram"""
+
+    return set(string.ascii_lowercase) <= set(sentence.lower())
