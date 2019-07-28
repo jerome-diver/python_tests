@@ -16,3 +16,4 @@
 - count_valid_smileys
 - permutations (show all possibles unique permutations)
 - regex_password (6+ alphanumeric, 1+ lowercase, 1+ uppercase, 1+ numeric)
+- zero_trail_factorial (find zeros trailing digit in factorial n)
