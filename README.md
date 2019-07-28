@@ -15,3 +15,4 @@
 - sort_odd_only (from a int list, sort odd numbers only, don't move even one's)
 - count_valid_smileys
 - permutations (show all possibles unique permutations)
+- regex_password (6+ alphanumeric, 1+ lowercase, 1+ uppercase, 1+ numeric)
